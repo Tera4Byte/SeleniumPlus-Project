@@ -25,7 +25,7 @@ pip install seleniumplus
 
 Или клонируйте репозиторий и установите его вручную:
 ```bash
-https://github.com/Tera4Byte/SeleniumPlus-Project.git
+git clone https://github.com/Tera4Byte/SeleniumPlus-Project.git
 cd SeleniumPlus-Project
 pip install .
 ```
